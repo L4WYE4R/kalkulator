@@ -1,3 +1,6 @@
+pkg install sl
+sl
+
 penambahan(){
 
    echo " Masukkan angka pertama : "
